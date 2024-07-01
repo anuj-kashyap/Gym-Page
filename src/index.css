@@ -1,0 +1,11 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.full-page {
+    background-color: black;
+    height: 100vh;
+    /* margin: 0; */
+  }
+  
